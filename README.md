@@ -7,7 +7,7 @@ It leverages the power of customer relationship management (CRM) to enhance cust
 and improve overall efficiency in the rice mill factory. This project aims to develop a user-friendly
 and feature-rich application that addresses the specific needs of a rice mill factory.
 
-Reporting and Dashboards: The application can generate detailed reports and analytics
+The application can generate detailed reports and analytics
 regarding daily how much rice sold and total income per daily, revenue generated, popular
 amenities, and most buyed customers. Easy to understand the data to the owner, improving
 resource allocation, and planning future development.
